@@ -1,4 +1,4 @@
-# adaline
+# Adaline
 ![image](https://user-images.githubusercontent.com/60944931/166569070-842d9338-d8cb-495d-bd62-8080266a46a6.png)
 
 # SVM
